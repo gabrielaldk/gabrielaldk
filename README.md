@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielaldk
 - 👀 I’m interested in becoming a full-stack developer. My dream for the future is to help create digital health interventions.
-- 🌱 I’m currently learning Java, along with HTML/CSS/JavaScript
+- 🌱 I’m currently learning to code in Java, along with HTML/CSS/JavaScript
 
 <!---
 gabrielaldk/gabrielaldk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
